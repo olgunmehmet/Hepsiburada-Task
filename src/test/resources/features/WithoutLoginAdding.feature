@@ -1,6 +1,5 @@
 @parallel
 Feature: Adding item to cart without login
-
 @wip
   Scenario:Adding item to cart without login
     Given The user goes to application page
